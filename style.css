@@ -1,0 +1,46 @@
+h1 {
+	color: #ada0b1;
+	font-family: Bungee Hairline;
+	font-weight: bolder;
+	text-align: center;
+	font-size: 50px;
+}
+
+h2 {
+	color: #ada0b1;
+	font-family: Bungee Hairline;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+}
+
+h3 {
+	color: #ada0b1;
+	font-family: Bungee Hairline;	
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+div {
+	height: 600px;
+	width: 800px;
+	background-image:url('Images/Background2.png');
+	text-align: center;
+}
+
+input {
+	border: none;
+	outline: none;
+	background: none;
+	color: #ada0b1;
+	font-family: Bungee Hairline;
+	font-weight: bold;
+	display: block;
+}
+
+button {
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: auto;
+}
